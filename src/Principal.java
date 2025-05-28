@@ -1,4 +1,4 @@
-import Problems.P9.PalindromeNumber;
+import Problems.P2.AddTwoNumbers;
 
 public class Principal{
     public static void main(String[] args) throws Exception {
@@ -9,7 +9,8 @@ public class Principal{
         //LongestCommonPrefix r = new LongestCommonPrefix();
         //MergedTwoSortedList r = new MergedTwoSortedList();
         //TwoSum r = new TwoSum();
-        PalindromeNumber r = new PalindromeNumber();
+        //PalindromeNumber r = new PalindromeNumber();
+        AddTwoNumbers r = new AddTwoNumbers();
         r.test();
     }
 }

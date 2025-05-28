@@ -30,5 +30,5 @@ If you have a suggestion make your pull request will see you when we finish 100 
 
 # PROBLEMS SOLVE
     - EASY: 6
-    - MEDIUM: 1
+    - MEDIUM: 2
     - HARD: 0

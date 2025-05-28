@@ -20,6 +20,8 @@ package Problems.P21;
  * Output: [0]
  */
 
+import Problems.ProblemsResource.ListNode;
+
 public class MergedTwoSortedList {
     
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
