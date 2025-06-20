@@ -1,4 +1,4 @@
-import Problems.P2.AddTwoNumbers;
+import Problems.P28.FindTheIndexOfTheFirstOcurrenceInAString;
 
 public class Principal{
     public static void main(String[] args) throws Exception {
@@ -10,7 +10,10 @@ public class Principal{
         //MergedTwoSortedList r = new MergedTwoSortedList();
         //TwoSum r = new TwoSum();
         //PalindromeNumber r = new PalindromeNumber();
-        AddTwoNumbers r = new AddTwoNumbers();
+        //AddTwoNumbers r = new AddTwoNumbers();
+        //RemoveDuplicatesFromSortedArray r = new RemoveDuplicatesFromSortedArray();
+        //RemoveElement r = new RemoveElement();
+        FindTheIndexOfTheFirstOcurrenceInAString r = new FindTheIndexOfTheFirstOcurrenceInAString();
         r.test();
     }
 }

@@ -29,6 +29,22 @@ If you have a suggestion make your pull request will see you when we finish 100 
 23/05/2025
 
 # PROBLEMS SOLVE
-    - EASY: 6
+    - EASY: 9
     - MEDIUM: 2
     - HARD: 0
+
+# LIST OF PROBLEMS SOLVE BY MYSELF
+## Easy
+- P1 [Two Sum](./src/Problems/P1/TwoSum.java)
+- P9 [Add Two Numbers](./src/Problems/P9/PalindromeNumber.java)
+- P13 [Roman To Integer](./src/Problems/P13/RomanToInteger.java)
+- P14 [Longest Common Prefix](./src/Problems/P14/LongestCommonPrefix.java)
+- P20 [Valid Parentheses](./src/Problems/P20/ValidPrentheses.java)
+- P21 [Merged Two Sorted List](./src/Problems/P21/MergedTwoSortedList.java)
+- P26 [Remove Duplicates From Sorted Array](./src/Problems/P26/RemoveDuplicatesFromSortedArray.java)
+- P27 [Remove Element](./src/Problems/P27/RemoveElement.java)
+- P28 [Find The Last Index Of The Occurrence In A String](./src/Problems/P28/FindTheIndexOfTheFirstOcurrenceInAString.java)
+
+## Medium
+- P2 [AddTwoNumber](./src/Problems/P2/AddTwoNumbers.java)
+- P12 [IntegerToRoman](./src/Problems/P12/IntegerToRoman.java)
