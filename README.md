@@ -29,7 +29,7 @@ If you have a suggestion make your pull request will see you when we finish 100 
 23/05/2025
 
 # PROBLEMS SOLVE
-    - EASY: 9
+    - EASY: 10
     - MEDIUM: 2
     - HARD: 0
 
@@ -44,6 +44,7 @@ If you have a suggestion make your pull request will see you when we finish 100 
 - P26 [Remove Duplicates From Sorted Array](./src/Problems/P26/RemoveDuplicatesFromSortedArray.java)
 - P27 [Remove Element](./src/Problems/P27/RemoveElement.java)
 - P28 [Find The Last Index Of The Occurrence In A String](./src/Problems/P28/FindTheIndexOfTheFirstOcurrenceInAString.java)
+- P35 [Search Insert Position](./src/Problems/P35/SearchInsertPosition.java)
 
 ## Medium
 - P2 [AddTwoNumber](./src/Problems/P2/AddTwoNumbers.java)

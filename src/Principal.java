@@ -1,4 +1,4 @@
-import Problems.P28.FindTheIndexOfTheFirstOcurrenceInAString;
+import Problems.P35.SearchInsertPosition;
 
 public class Principal{
     public static void main(String[] args) throws Exception {
@@ -13,7 +13,8 @@ public class Principal{
         //AddTwoNumbers r = new AddTwoNumbers();
         //RemoveDuplicatesFromSortedArray r = new RemoveDuplicatesFromSortedArray();
         //RemoveElement r = new RemoveElement();
-        FindTheIndexOfTheFirstOcurrenceInAString r = new FindTheIndexOfTheFirstOcurrenceInAString();
+        //FindTheIndexOfTheFirstOcurrenceInAString r = new FindTheIndexOfTheFirstOcurrenceInAString();
+        SearchInsertPosition r = new SearchInsertPosition();
         r.test();
     }
 }
